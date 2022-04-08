@@ -3,13 +3,12 @@
 Currently i'm studying Computer Engineering and always i have as priority
 that practicing is the best way to improve my programming skills.
 
-You can contact me at: andrefernando777@hotmail.com                                  
-I also have a LinkedIn: https://www.linkedin.com/in/andre-fernando-machado/
+:mailbox: How to reach me: andrefernando777@hotmail.com                                  
+📔 I also have a LinkedIn: https://www.linkedin.com/in/andre-fernando-machado/
   
 <div align="center">
   <a href="https://github.com/AndreFernandoM">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreFernandoM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFernandoM&layout=compact&langs_count=7&theme=dark"/>
  
 </div>
 
