@@ -6,6 +6,9 @@ that practicing is the best way to improve my programming skills.
 :mailbox: How to reach me: andrefernando777@hotmail.com                                  
 📔 I also have a LinkedIn: https://www.linkedin.com/in/andre-fernando-machado/
   
+You can contact me anytime :)</p> 
+![](https://dcbadge.vercel.app/api/shield/244254576541302784&?compact=true)
+
 <div align="center">
   <a href="https://github.com/AndreFernandoM">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreFernandoM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
