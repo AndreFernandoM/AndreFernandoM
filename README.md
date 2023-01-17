@@ -2,29 +2,17 @@
 
 Currently i'm studying Computer Engineering and i always had as priority
 that practicing is the best way to improve my programming skills.
+###### Current Studying
+- Typescript
+- React
+- VTEX IO
+- Tailwind
 <div>
   <p>
-    :mailbox: How to reach me: andrefernando777@hotmail.com  
+    :mailbox: How to reach me: andrefernando777@hotmail.com
   </p>
-    <p>
-    📔 I also have a LinkedIn:<a href="https://https://www.linkedin.com/in/andre-fernando-machado/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
-</div>
-                                
+</div>                                
 
-  
-You can contact me anytime :)</p> 
-   <a href="https://discord.gg/SAMAEL#3004" target="_blank"><img src="https://img.shields.io/badge/DISCORD-SAMAEL%233004-blue?style=for-the-badge&logo=discord&logoColor=white" targetr="_blank"></a>
-
-
-
-<!-- <div align="center">
-  <a href="https://github.com/AndreFernandoM">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreFernandoM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-</div>
- -->
-  
   <div style="display: inline_block">
     <img align="middle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="middle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -36,4 +24,13 @@ You can contact me anytime :)</p>
     <img align="middle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
    </div>
+   
+  ##
+   
+<div>
+      <a href="https://www.linkedin.com/in/andre-fernando-machado/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      </a>
+      <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/DISCORD-SAMAEL%233004-blue?style=for-the-badge&logo=discord&logoColor=white" targetr="_blank">
+      </a>
+</div>
 
