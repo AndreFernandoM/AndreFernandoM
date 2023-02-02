@@ -11,7 +11,13 @@ that practicing is the best way to improve my programming skills.
   <p>
     :mailbox: How to reach me: andrefernando777@hotmail.com
   </p>
-</div>                                
+</div>   
+
+<div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreFernandoM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFernandoM&layout=compact"/>
+</div>
+
 
   <div style="display: inline_block">
     <img align="middle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
