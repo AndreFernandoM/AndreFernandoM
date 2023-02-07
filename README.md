@@ -3,9 +3,9 @@
 Currently i'm studying Computer Engineering and i always had as priority
 that practicing is the best way to improve my programming skills.
 ###### Current Studying
+- Node.js
 - Typescript
 - React
-- VTEX IO
 - Tailwind
 <div>
   <p>
