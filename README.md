@@ -1,4 +1,4 @@
-## Hello! My name is André 🇧🇷!
+## Hi! My name is André!
 
 Currently i'm studying Computer Engineering and i always had as priority
 that practicing is the best way to improve my programming skills.
