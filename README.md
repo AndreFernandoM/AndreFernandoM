@@ -9,7 +9,7 @@ that practicing is the best way to improve my programming skills.
 - Tailwind
 <div>
   <p>
-    :mailbox: How to reach me: andrefernando777@hotmail.com
+    :mailbox: How to reach me: andrefernandom101@gmail.com
   </p>
 </div>   
 
